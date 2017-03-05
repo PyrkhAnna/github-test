@@ -1,0 +1,28 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite" verbose="1">
+	<test name="Log In With Incorrect And Correct Values For GitHub">
+		<classes>
+			<class name="by.pyrkh.github.pages.LoginWithIncorrectAndCorrectValues" />
+		</classes>
+	</test>
+	<test name="Log Out For GitHub">
+		<classes>
+			<class name="by.pyrkh.github.pages.LogOutFromAccount" />
+		</classes>
+	</test>
+	<test name="Create New Account With Invalid Values For GitHub">
+		<classes>
+			<class name="by.pyrkh.github.pages.CreateAccountNegative" />
+		</classes>
+	</test>
+		<test name="Create New Repository With Incorrect And Correct Values For GitHub">
+		<classes>
+			<class name="by.pyrkh.github.pages.CreateRepositoryPositiveNegative" />
+		</classes>
+	</test>
+	<test name="Delete Repository Exist And Not Exist For GitHub">
+		<classes>
+			<class name="by.pyrkh.github.pages.DeleteRepositoryPositiveNegative" />
+		</classes>
+	</test>
+</suite>

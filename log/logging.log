@@ -1,0 +1,631 @@
+[INFO ] 2017-03-04 18:12:28.942 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-04 18:12:28.946 [main] Steps - initBrowser
+[INFO ] 2017-03-04 18:12:33.238 [main] RepositoriesPage - Repositories page opened
+[INFO ] 2017-03-04 18:57:10.929 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-04 18:57:10.937 [main] Steps - initBrowser
+[INFO ] 2017-03-04 18:57:18.403 [main] LoginPage - Login page opened
+[INFO ] 2017-03-04 18:57:19.491 [main] LoginPage - Login form passed
+[INFO ] 2017-03-04 18:57:19.492 [main] LoginWithIncorrectValues - Login with incorrect value
+[INFO ] 2017-03-04 18:57:23.624 [main] LoginPage - Login page opened
+[INFO ] 2017-03-04 18:57:24.354 [main] LoginPage - Login form passed
+[INFO ] 2017-03-04 18:57:24.354 [main] LoginWithIncorrectValues - Login with incorrect value
+[INFO ] 2017-03-04 18:57:28.021 [main] LoginPage - Login page opened
+[INFO ] 2017-03-04 18:57:28.683 [main] LoginPage - Login form passed
+[INFO ] 2017-03-04 18:57:28.684 [main] LoginWithIncorrectValues - Login with incorrect value
+[INFO ] 2017-03-04 18:57:31.980 [main] LoginPage - Login page opened
+[INFO ] 2017-03-04 18:57:32.700 [main] LoginPage - Login form passed
+[INFO ] 2017-03-04 18:57:32.701 [main] LoginWithIncorrectValues - Login with incorrect value
+[INFO ] 2017-03-04 18:57:42.051 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-04 18:57:42.051 [main] Steps - closeBrowser
+[INFO ] 2017-03-04 19:14:25.717 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-04 19:14:25.721 [main] Steps - initBrowser
+[INFO ] 2017-03-04 19:14:29.986 [main] LoginPage - Login page opened
+[INFO ] 2017-03-04 19:14:30.705 [main] LoginPage - Fill login form: username - autotest, password - Test_12345
+[INFO ] 2017-03-04 19:14:30.706 [main] LoginWithIncorrectAndCorrectValues - Login with incorrect value
+[INFO ] 2017-03-04 19:14:35.021 [main] LoginPage - Login page opened
+[INFO ] 2017-03-04 19:14:35.991 [main] LoginPage - Fill login form: username - test123, password - 123_test
+[INFO ] 2017-03-04 19:14:35.991 [main] LoginWithIncorrectAndCorrectValues - Login with incorrect value
+[INFO ] 2017-03-04 19:14:39.948 [main] LoginPage - Login page opened
+[INFO ] 2017-03-04 19:14:40.588 [main] LoginPage - Fill login form: username - 123test, password - autotest
+[INFO ] 2017-03-04 19:14:40.589 [main] LoginWithIncorrectAndCorrectValues - Login with incorrect value
+[INFO ] 2017-03-04 19:14:44.484 [main] LoginPage - Login page opened
+[INFO ] 2017-03-04 19:14:45.022 [main] LoginPage - Fill login form: username - , password - 
+[INFO ] 2017-03-04 19:14:45.023 [main] LoginWithIncorrectAndCorrectValues - Login with incorrect value
+[INFO ] 2017-03-04 19:14:48.951 [main] LoginPage - Login page opened
+[INFO ] 2017-03-04 19:14:49.707 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-04 19:14:49.708 [main] LoginWithIncorrectAndCorrectValues - Login with incorrect value
+[INFO ] 2017-03-04 19:14:53.324 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-04 19:14:53.324 [main] Steps - closeBrowser
+[INFO ] 2017-03-04 20:46:02.647 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-04 20:46:02.655 [main] Steps - initBrowser
+[INFO ] 2017-03-04 20:46:06.692 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-04 20:46:06.692 [main] Steps - closeBrowser
+[INFO ] 2017-03-04 21:11:15.250 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-04 21:11:15.396 [main] Steps - initBrowser
+[INFO ] 2017-03-04 21:14:38.576 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-04 21:14:38.582 [main] Steps - initBrowser
+[INFO ] 2017-03-04 21:15:11.308 [main] MainPage - Main page is opened
+[INFO ] 2017-03-04 21:15:15.856 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-04 21:15:15.857 [main] CreateAccountNegative - Create account with incorrect username - autotest000
+[INFO ] 2017-03-04 21:15:20.796 [main] MainPage - Main page is opened
+[INFO ] 2017-03-04 21:15:21.946 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-04 21:15:21.946 [main] CreateAccountNegative - Create account with incorrect username - -test
+[INFO ] 2017-03-04 21:15:27.575 [main] MainPage - Main page is opened
+[INFO ] 2017-03-04 21:15:28.844 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-04 21:15:28.844 [main] CreateAccountNegative - Create account with incorrect username - test_
+[INFO ] 2017-03-04 21:15:33.996 [main] MainPage - Main page is opened
+[INFO ] 2017-03-04 21:15:35.696 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-04 21:15:35.696 [main] CreateAccountNegative - Create account with incorrect username - rrrrrrrrrrrrrttttttttttttttttyyyyyyyyyyuu
+[INFO ] 2017-03-04 21:15:41.889 [main] MainPage - Main page is opened
+[INFO ] 2017-03-04 21:15:43.272 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-04 21:15:43.272 [main] CreateAccountNegative - Create account with incorrect username - 
+[INFO ] 2017-03-04 21:15:48.996 [main] MainPage - Main page is opened
+[INFO ] 2017-03-04 21:15:49.953 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-04 21:15:49.953 [main] CreateAccountNegative - Create account with incorrect email - autotest000@mail.ru
+[INFO ] 2017-03-04 21:15:55.276 [main] MainPage - Main page is opened
+[INFO ] 2017-03-04 21:15:56.280 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-04 21:15:56.281 [main] CreateAccountNegative - Create account with incorrect email - ghfjkd@
+[INFO ] 2017-03-04 21:16:02.107 [main] MainPage - Main page is opened
+[INFO ] 2017-03-04 21:16:02.893 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-04 21:16:02.901 [main] CreateAccountNegative - Create account with incorrect email - 
+[INFO ] 2017-03-04 21:16:06.629 [main] MainPage - Main page is opened
+[INFO ] 2017-03-04 21:16:08.393 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-04 21:16:08.394 [main] CreateAccountNegative - Create account with incorrect password - qw2
+[INFO ] 2017-03-04 21:16:13.224 [main] MainPage - Main page is opened
+[INFO ] 2017-03-04 21:16:15.137 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-04 21:16:15.137 [main] CreateAccountNegative - Create account with incorrect password - 12345678
+[INFO ] 2017-03-04 21:16:19.317 [main] MainPage - Main page is opened
+[INFO ] 2017-03-04 21:16:20.538 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-04 21:16:20.538 [main] CreateAccountNegative - Create account with incorrect password - qwertyui
+[INFO ] 2017-03-04 21:16:24.908 [main] MainPage - Main page is opened
+[INFO ] 2017-03-04 21:16:26.701 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-04 21:16:26.702 [main] CreateAccountNegative - Create account with incorrect password - fffffffffffffffffffffff11111111111111111111111111113333333333333333kkkkkkkkkkkkkkkkkk
+[INFO ] 2017-03-04 21:16:31.177 [main] MainPage - Main page is opened
+[INFO ] 2017-03-04 21:16:32.497 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-04 21:16:32.498 [main] CreateAccountNegative - Create account with incorrect password - 
+[INFO ] 2017-03-04 21:16:38.795 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-04 21:16:38.796 [main] Steps - closeBrowser
+[INFO ] 2017-03-04 21:43:59.362 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-04 21:43:59.367 [main] Steps - initBrowser
+[INFO ] 2017-03-04 21:44:04.123 [main] LoginPage - Login page opened
+[INFO ] 2017-03-04 21:44:05.049 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-04 21:44:06.865 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-04 21:46:57.786 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-04 21:46:57.791 [main] Steps - initBrowser
+[INFO ] 2017-03-04 21:47:02.254 [main] LoginPage - Login page opened
+[INFO ] 2017-03-04 21:47:03.320 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-04 21:47:05.043 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-04 22:04:30.814 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-04 22:04:30.818 [main] Steps - initBrowser
+[INFO ] 2017-03-04 22:04:34.854 [main] LoginPage - Login page opened
+[INFO ] 2017-03-04 22:04:35.729 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-04 22:04:40.501 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-04 22:04:41.369 [main] CreateRepository - Create account with incorrect username - autotest000
+[INFO ] 2017-03-04 22:06:03.895 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-04 22:06:03.896 [main] Steps - closeBrowser
+[INFO ] 2017-03-04 22:06:53.877 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-04 22:06:53.882 [main] Steps - initBrowser
+[INFO ] 2017-03-04 22:06:58.666 [main] LoginPage - Login page opened
+[INFO ] 2017-03-04 22:06:59.605 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-04 22:07:04.403 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-04 22:07:09.638 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-04 22:07:09.639 [main] Steps - closeBrowser
+[INFO ] 2017-03-04 22:17:31.874 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-04 22:17:31.878 [main] Steps - initBrowser
+[INFO ] 2017-03-04 22:17:36.424 [main] LoginPage - Login page opened
+[INFO ] 2017-03-04 22:17:37.171 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-04 22:17:42.483 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-04 22:17:43.365 [main] CreateRepository - Create New Repository  - 111
+[INFO ] 2017-03-04 22:19:05.652 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-04 22:19:05.653 [main] Steps - closeBrowser
+[INFO ] 2017-03-04 22:19:29.350 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-04 22:19:29.354 [main] Steps - initBrowser
+[INFO ] 2017-03-04 22:19:33.427 [main] LoginPage - Login page opened
+[INFO ] 2017-03-04 22:19:34.240 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-04 22:19:38.881 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-04 22:19:39.588 [main] CreateRepository - Create New Repository  - 111
+[INFO ] 2017-03-04 22:21:56.420 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-04 22:21:56.424 [main] Steps - initBrowser
+[INFO ] 2017-03-04 22:22:00.591 [main] LoginPage - Login page opened
+[INFO ] 2017-03-04 22:22:01.393 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-04 22:22:06.865 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-04 22:22:07.514 [main] CreateRepository - Create New Repository  - 222
+[INFO ] 2017-03-04 22:22:13.316 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-04 22:22:13.852 [main] CreateRepository - Create New Repository  - 222
+[INFO ] 2017-03-04 22:22:17.819 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-04 22:22:17.820 [main] Steps - closeBrowser
+[INFO ] 2017-03-04 22:28:48.196 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-04 22:28:48.200 [main] Steps - initBrowser
+[INFO ] 2017-03-04 22:28:52.332 [main] LoginPage - Login page opened
+[INFO ] 2017-03-04 22:28:53.287 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-04 22:28:58.667 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-04 22:28:59.288 [main] CreateRepository - Create New Repository  - 222
+[INFO ] 2017-03-04 22:30:51.934 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-04 22:30:51.939 [main] Steps - initBrowser
+[INFO ] 2017-03-04 22:30:56.276 [main] LoginPage - Login page opened
+[INFO ] 2017-03-04 22:30:56.919 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-04 22:31:02.265 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-04 22:31:02.828 [main] CreateRepository - Create New Repository  - 333
+[INFO ] 2017-03-04 22:31:08.485 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-04 22:31:09.008 [main] CreateRepository - Create New Repository  - 333
+[INFO ] 2017-03-04 22:31:13.381 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-04 22:31:13.381 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 14:19:49.265 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 14:19:49.407 [main] Steps - initBrowser
+[INFO ] 2017-03-05 14:19:57.925 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 14:19:59.663 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 14:20:04.222 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-05 14:20:04.771 [main] CreateAndDeleteRepository - Create New Repository  - 222
+[INFO ] 2017-03-05 14:20:09.866 [main] RepositoriesPage - Repositories page opened
+[INFO ] 2017-03-05 14:20:57.371 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 14:20:57.372 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 14:23:52.043 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 14:23:52.047 [main] Steps - initBrowser
+[INFO ] 2017-03-05 14:23:56.927 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 14:23:57.818 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 14:24:02.705 [main] RepositoriesPage - Repositories page opened
+[INFO ] 2017-03-05 14:25:32.363 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 14:25:32.368 [main] Steps - initBrowser
+[INFO ] 2017-03-05 14:25:37.043 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 14:25:37.920 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 14:25:43.113 [main] RepositoriesPage - Repositories page opened
+[INFO ] 2017-03-05 14:26:26.980 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 14:26:26.982 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 14:28:15.633 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 14:28:15.637 [main] Steps - initBrowser
+[INFO ] 2017-03-05 14:28:19.702 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 14:28:20.468 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 14:28:25.038 [main] RepositoriesPage - Repositories page opened
+[INFO ] 2017-03-05 14:29:09.189 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 14:29:09.190 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 14:30:08.505 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 14:30:08.511 [main] Steps - initBrowser
+[INFO ] 2017-03-05 14:30:12.715 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 14:30:13.666 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 14:30:19.282 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-05 14:31:41.946 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 14:31:41.947 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 14:39:39.428 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 14:39:39.432 [main] Steps - initBrowser
+[INFO ] 2017-03-05 14:39:43.673 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 14:39:44.637 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 14:39:49.440 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-05 14:39:55.607 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 14:39:55.607 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 14:41:08.888 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 14:41:08.893 [main] Steps - initBrowser
+[INFO ] 2017-03-05 14:41:13.423 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 14:41:14.243 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 14:41:19.951 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-05 14:42:32.834 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 14:42:32.838 [main] Steps - initBrowser
+[INFO ] 2017-03-05 14:42:36.898 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 14:42:37.777 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 14:42:43.314 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-05 14:43:57.603 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 14:43:57.607 [main] Steps - initBrowser
+[INFO ] 2017-03-05 14:44:01.768 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 14:44:02.610 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 14:44:08.240 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-05 15:07:42.855 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 15:07:42.911 [main] Steps - initBrowser
+[INFO ] 2017-03-05 15:07:48.535 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 15:07:49.326 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 15:07:54.886 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-05 15:08:55.708 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 15:08:55.712 [main] Steps - initBrowser
+[INFO ] 2017-03-05 15:08:59.709 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 15:09:00.715 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 15:09:05.641 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-05 15:20:05.721 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 15:20:05.727 [main] Steps - initBrowser
+[INFO ] 2017-03-05 15:20:09.906 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 15:20:11.104 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 15:20:16.646 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-05 15:21:44.964 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 15:21:44.969 [main] Steps - initBrowser
+[INFO ] 2017-03-05 15:21:49.224 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 15:21:50.195 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 15:24:24.352 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 15:24:24.356 [main] Steps - initBrowser
+[INFO ] 2017-03-05 15:24:28.396 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 15:24:29.442 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 15:24:34.063 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-05 15:24:34.663 [main] CreateAndDeleteRepository - Create New Repository  - 222
+[INFO ] 2017-03-05 15:35:01.011 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 15:35:01.033 [main] Steps - initBrowser
+[INFO ] 2017-03-05 15:35:06.635 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 15:35:07.841 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 15:35:13.196 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-05 15:35:13.857 [main] CreateAndDeleteRepository - Create New Repository  - 222
+[INFO ] 2017-03-05 15:38:34.954 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 15:38:34.958 [main] Steps - initBrowser
+[INFO ] 2017-03-05 15:38:39.365 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 15:38:40.428 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 15:38:45.981 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-05 15:38:46.649 [main] CreateRepository - Create New Repository  - 222
+[INFO ] 2017-03-05 15:39:09.601 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-05 15:39:10.878 [main] CreateRepository - Create New Repository  - 111
+[INFO ] 2017-03-05 15:39:23.330 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 15:39:23.330 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 15:41:12.256 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 15:41:12.260 [main] Steps - initBrowser
+[INFO ] 2017-03-05 15:41:16.429 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 15:41:17.517 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 15:41:22.040 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-05 15:41:29.220 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 15:41:29.220 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 15:42:58.855 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 15:42:58.860 [main] Steps - initBrowser
+[INFO ] 2017-03-05 15:43:02.995 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 15:43:04.064 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 15:43:09.195 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-05 15:43:25.713 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 15:43:25.720 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 15:47:15.388 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 15:47:15.393 [main] Steps - initBrowser
+[INFO ] 2017-03-05 15:47:18.864 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 15:47:19.696 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 15:47:25.255 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-05 15:47:33.772 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 15:47:33.773 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 15:48:31.741 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 15:48:31.745 [main] Steps - initBrowser
+[INFO ] 2017-03-05 15:48:35.925 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 15:48:36.783 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 15:48:42.116 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-05 15:48:48.752 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 15:48:48.753 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 15:49:41.529 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 15:49:41.533 [main] Steps - initBrowser
+[INFO ] 2017-03-05 15:49:45.879 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 15:49:46.885 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 15:49:52.082 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-05 15:49:59.700 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 15:49:59.704 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 15:51:08.473 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 15:51:08.477 [main] Steps - initBrowser
+[INFO ] 2017-03-05 15:51:12.800 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 15:51:13.623 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 15:51:18.592 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-05 15:51:25.957 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 15:51:25.961 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 15:52:35.632 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 15:52:35.636 [main] Steps - initBrowser
+[INFO ] 2017-03-05 15:52:39.709 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 15:52:40.578 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 15:52:45.605 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-05 15:52:46.303 [main] CreateRepository - Create New Repository  - 222
+[INFO ] 2017-03-05 15:53:56.192 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 15:53:56.196 [main] Steps - initBrowser
+[INFO ] 2017-03-05 15:54:00.435 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 15:54:01.132 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 15:54:06.143 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-05 15:54:07.222 [main] CreateRepository - Create New Repository  - 222
+[INFO ] 2017-03-05 15:54:12.832 [main] CreateRepositoryPage - CreateRepository page opened
+[INFO ] 2017-03-05 15:54:13.454 [main] CreateRepository - Create New Repository  - 111
+[INFO ] 2017-03-05 17:24:52.857 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 17:24:52.888 [main] Steps - initBrowser
+[INFO ] 2017-03-05 17:24:58.059 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 17:24:58.993 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 17:25:01.908 [main] LoginPage - Logged out
+[INFO ] 2017-03-05 17:25:01.909 [main] LogOutTest - Log Out from account
+[INFO ] 2017-03-05 17:25:09.897 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 17:25:09.903 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 17:28:41.253 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 17:28:41.258 [main] Steps - initBrowser
+[INFO ] 2017-03-05 17:28:47.209 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:28:48.617 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:28:48.618 [main] CreateAccountNegativeTest - Create account with incorrect username - autotest000
+[INFO ] 2017-03-05 17:28:53.131 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:28:54.138 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:28:54.139 [main] CreateAccountNegativeTest - Create account with incorrect username - -test
+[INFO ] 2017-03-05 17:28:57.652 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:28:58.621 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:28:58.621 [main] CreateAccountNegativeTest - Create account with incorrect username - test_
+[INFO ] 2017-03-05 17:29:02.271 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:29:03.242 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:29:03.242 [main] CreateAccountNegativeTest - Create account with incorrect username - rrrrrrrrrrrrrttttttttttttttttyyyyyyyyyyuu
+[INFO ] 2017-03-05 17:29:08.249 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:29:09.734 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:29:09.734 [main] CreateAccountNegativeTest - Create account with incorrect username - 
+[INFO ] 2017-03-05 17:29:13.835 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:29:15.076 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:29:15.076 [main] CreateAccountNegativeTest - Create account with incorrect email - autotest000@mail.ru
+[INFO ] 2017-03-05 17:29:19.506 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:29:20.367 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:29:20.369 [main] CreateAccountNegativeTest - Create account with incorrect email - ghfjkd@
+[INFO ] 2017-03-05 17:29:24.668 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:29:25.822 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:29:25.823 [main] CreateAccountNegativeTest - Create account with incorrect email - 
+[INFO ] 2017-03-05 17:29:29.433 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:29:30.006 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:29:30.007 [main] CreateAccountNegativeTest - Create account with incorrect password - qw2
+[INFO ] 2017-03-05 17:29:34.166 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:29:35.131 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:29:35.131 [main] CreateAccountNegativeTest - Create account with incorrect password - 12345678
+[INFO ] 2017-03-05 17:29:38.055 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:29:38.932 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:29:38.932 [main] CreateAccountNegativeTest - Create account with incorrect password - qwertyui
+[INFO ] 2017-03-05 17:29:42.540 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:29:43.567 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:29:43.567 [main] CreateAccountNegativeTest - Create account with incorrect password - fffffffffffffffffffffff11111111111111111111111111113333333333333333kkkkkkkkkkkkkkkkkk
+[INFO ] 2017-03-05 17:29:47.828 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:29:48.512 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:29:48.514 [main] CreateAccountNegativeTest - Create account with incorrect password - 
+[INFO ] 2017-03-05 17:29:54.202 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 17:29:54.202 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 17:30:07.112 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 17:30:07.113 [main] Steps - initBrowser
+[INFO ] 2017-03-05 17:30:11.446 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 17:30:12.576 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 17:30:17.668 [main] RepositoryPage - Repository page opened
+[INFO ] 2017-03-05 17:30:18.517 [main] RepositoryPage - Repository 222 created
+[INFO ] 2017-03-05 17:30:18.517 [main] CreateRepositoryPositiveNegativeTest - Create New Repository  - 222
+[INFO ] 2017-03-05 17:31:42.085 [main] RepositoryPage - Repository page opened
+[INFO ] 2017-03-05 17:31:42.875 [main] RepositoryPage - Repository 111 created
+[INFO ] 2017-03-05 17:31:42.876 [main] CreateRepositoryPositiveNegativeTest - Create New Repository  - 111
+[INFO ] 2017-03-05 17:31:49.414 [main] Steps - initBrowser
+[INFO ] 2017-03-05 17:31:51.935 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 17:32:34.612 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 17:33:17.341 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 17:34:00.029 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 17:34:42.598 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 17:35:25.862 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 17:35:25.862 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 17:35:37.099 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 17:35:37.100 [main] Steps - initBrowser
+[INFO ] 2017-03-05 17:35:41.321 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 17:35:42.113 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 17:35:44.594 [main] LoginPage - Logged out
+[INFO ] 2017-03-05 17:35:44.594 [main] LogOutTest - Log Out from account
+[INFO ] 2017-03-05 17:35:48.301 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 17:35:48.301 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 17:46:48.682 [main] CreateAccountNegativeTest - CreateAccountNegativeTest started
+[INFO ] 2017-03-05 17:46:59.624 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 17:46:59.625 [main] Steps - initBrowser
+[INFO ] 2017-03-05 17:47:04.980 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:47:05.855 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:47:05.855 [main] CreateAccountNegativeTest - Create account with incorrect username - autotest000
+[INFO ] 2017-03-05 17:47:09.539 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:47:10.575 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:47:10.576 [main] CreateAccountNegativeTest - Create account with incorrect username - -test
+[INFO ] 2017-03-05 17:47:14.422 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:47:15.468 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:47:15.469 [main] CreateAccountNegativeTest - Create account with incorrect username - test_
+[INFO ] 2017-03-05 17:47:20.151 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:47:21.280 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:47:21.281 [main] CreateAccountNegativeTest - Create account with incorrect username - rrrrrrrrrrrrrttttttttttttttttyyyyyyyyyyuu
+[INFO ] 2017-03-05 17:47:24.773 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:47:25.569 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:47:25.570 [main] CreateAccountNegativeTest - Create account with incorrect username - 
+[INFO ] 2017-03-05 17:47:28.538 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:47:29.526 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:47:29.527 [main] CreateAccountNegativeTest - Create account with incorrect email - autotest000@mail.ru
+[INFO ] 2017-03-05 17:47:33.101 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:47:34.180 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:47:34.181 [main] CreateAccountNegativeTest - Create account with incorrect email - ghfjkd@
+[INFO ] 2017-03-05 17:47:37.733 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:47:38.554 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:47:38.554 [main] CreateAccountNegativeTest - Create account with incorrect email - 
+[INFO ] 2017-03-05 17:47:42.869 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:47:44.273 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:47:44.273 [main] CreateAccountNegativeTest - Create account with incorrect password - qw2
+[INFO ] 2017-03-05 17:47:47.285 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:47:48.364 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:47:48.365 [main] CreateAccountNegativeTest - Create account with incorrect password - 12345678
+[INFO ] 2017-03-05 17:47:52.254 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:47:53.520 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:47:53.520 [main] CreateAccountNegativeTest - Create account with incorrect password - qwertyui
+[INFO ] 2017-03-05 17:47:56.808 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:47:57.572 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:47:57.572 [main] CreateAccountNegativeTest - Create account with incorrect password - fffffffffffffffffffffff11111111111111111111111111113333333333333333kkkkkkkkkkkkkkkkkk
+[INFO ] 2017-03-05 17:48:02.513 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 17:48:03.419 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 17:48:03.419 [main] CreateAccountNegativeTest - Create account with incorrect password - 
+[INFO ] 2017-03-05 17:48:07.833 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 17:48:07.834 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 17:48:07.839 [main] CreateRepositoryPositiveNegativeTest - CreateRepositoryPositiveNegativeTest started
+[INFO ] 2017-03-05 17:48:15.569 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 17:48:15.569 [main] Steps - initBrowser
+[INFO ] 2017-03-05 17:48:19.567 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 17:48:20.440 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 17:48:25.205 [main] RepositoryPage - Repository page opened
+[INFO ] 2017-03-05 17:48:26.406 [main] RepositoryPage - Repository 222 created
+[INFO ] 2017-03-05 17:48:26.407 [main] CreateRepositoryPositiveNegativeTest - Create New Repository  - 222
+[INFO ] 2017-03-05 17:49:50.082 [main] RepositoryPage - Repository page opened
+[INFO ] 2017-03-05 17:49:50.848 [main] RepositoryPage - Repository 111 created
+[INFO ] 2017-03-05 17:49:50.848 [main] CreateRepositoryPositiveNegativeTest - Create New Repository  - 111
+[INFO ] 2017-03-05 17:49:54.973 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 17:49:54.973 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 17:49:54.974 [main] LoginWithIncorrectAndCorrectValuesTest - LoginWithIncorrectAndCorrectValuesTest started
+[INFO ] 2017-03-05 17:50:02.599 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 17:50:02.599 [main] Steps - initBrowser
+[INFO ] 2017-03-05 17:50:02.600 [main] LoginWithIncorrectAndCorrectValuesTest - Login with incorrect valueautotest, Test_12345
+[INFO ] 2017-03-05 17:50:06.928 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 17:50:07.819 [main] LoginPage - Fill login form: username - autotest, password - Test_12345
+[INFO ] 2017-03-05 17:50:08.916 [main] LoginWithIncorrectAndCorrectValuesTest - Login with incorrect valuetest123, 123_test
+[INFO ] 2017-03-05 17:50:10.605 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 17:50:11.239 [main] LoginPage - Fill login form: username - test123, password - 123_test
+[INFO ] 2017-03-05 17:50:12.295 [main] LoginWithIncorrectAndCorrectValuesTest - Login with incorrect value123test, autotest
+[INFO ] 2017-03-05 17:50:15.465 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 17:50:15.993 [main] LoginPage - Fill login form: username - 123test, password - autotest
+[INFO ] 2017-03-05 17:50:17.063 [main] LoginWithIncorrectAndCorrectValuesTest - Login with incorrect value, 
+[INFO ] 2017-03-05 17:50:19.091 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 17:50:19.445 [main] LoginPage - Fill login form: username - , password - 
+[INFO ] 2017-03-05 17:50:20.182 [main] LoginWithIncorrectAndCorrectValuesTest - Login with correct value
+[INFO ] 2017-03-05 17:50:22.042 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 17:50:23.312 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 17:50:26.946 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 17:50:26.947 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 17:50:26.948 [main] LogOutTest - LogOutTest started
+[INFO ] 2017-03-05 17:50:44.079 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 17:50:44.079 [main] Steps - initBrowser
+[INFO ] 2017-03-05 17:50:49.660 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 17:50:50.744 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 17:50:54.116 [main] LoginPage - Logged out from account
+[INFO ] 2017-03-05 17:50:54.116 [main] LogOutTest - Log Out from account
+[INFO ] 2017-03-05 17:50:59.679 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 17:50:59.679 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 18:41:11.476 [main] DeleteRepositoryPositiveNegative - DeleteRepositoryPositiveNegative started
+[INFO ] 2017-03-05 18:41:50.308 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 18:41:50.309 [main] Steps - initBrowser
+[INFO ] 2017-03-05 18:41:55.835 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 18:41:56.864 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 18:42:02.639 [main] RepositoryPage - Repository page opened
+[INFO ] 2017-03-05 18:42:03.160 [main] RepositoryPage - Repository 222 created
+[INFO ] 2017-03-05 18:42:59.396 [main] DeleteRepositoryPositiveNegative - DeleteRepositoryPositiveNegative started
+[INFO ] 2017-03-05 18:43:13.651 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 18:43:13.651 [main] Steps - initBrowser
+[INFO ] 2017-03-05 18:43:18.602 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 18:43:19.424 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 18:43:24.123 [main] RepositoryPage - Repository page opened
+[INFO ] 2017-03-05 18:43:24.598 [main] RepositoryPage - Repository 222 created
+[INFO ] 2017-03-05 18:45:42.870 [main] DeleteRepositoryPositiveNegative - DeleteRepositoryPositiveNegative started
+[INFO ] 2017-03-05 18:45:56.196 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 18:45:56.197 [main] Steps - initBrowser
+[INFO ] 2017-03-05 18:46:00.794 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 18:46:01.841 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 18:46:07.328 [main] RepositoryPage - Repository page opened
+[INFO ] 2017-03-05 18:46:08.087 [main] RepositoryPage - Repository 222 created
+[INFO ] 2017-03-05 18:46:13.129 [main] RepositoryPage - Repository 222 deleted
+[INFO ] 2017-03-05 18:46:13.131 [main] DeleteRepositoryPositiveNegative - Delete Repository Positive - 222
+[INFO ] 2017-03-05 18:49:08.211 [main] LoginWithIncorrectAndCorrectValuesTest - LoginWithIncorrectAndCorrectValuesTest started
+[INFO ] 2017-03-05 18:49:18.868 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 18:49:18.869 [main] Steps - initBrowser
+[INFO ] 2017-03-05 18:49:18.876 [main] LoginWithIncorrectAndCorrectValuesTest - Login with incorrect valueautotest, Test_12345
+[INFO ] 2017-03-05 18:49:24.414 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 18:49:25.554 [main] LoginPage - Fill login form: username - autotest, password - Test_12345
+[INFO ] 2017-03-05 18:49:27.023 [main] LoginWithIncorrectAndCorrectValuesTest - Login with incorrect valuetest123, 123_test
+[INFO ] 2017-03-05 18:49:30.557 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 18:49:31.314 [main] LoginPage - Fill login form: username - test123, password - 123_test
+[INFO ] 2017-03-05 18:49:32.495 [main] LoginWithIncorrectAndCorrectValuesTest - Login with incorrect value123test, autotest
+[INFO ] 2017-03-05 18:49:35.208 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 18:49:35.856 [main] LoginPage - Fill login form: username - 123test, password - autotest
+[INFO ] 2017-03-05 18:49:37.009 [main] LoginWithIncorrectAndCorrectValuesTest - Login with incorrect value, 
+[INFO ] 2017-03-05 18:49:40.212 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 18:49:40.906 [main] LoginPage - Fill login form: username - , password - 
+[INFO ] 2017-03-05 18:49:42.389 [main] LoginWithIncorrectAndCorrectValuesTest - Login with correct value
+[INFO ] 2017-03-05 18:49:45.444 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 18:49:46.170 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 18:49:54.425 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 18:49:54.426 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 18:49:54.585 [main] LogOutTest - LogOutTest started
+[INFO ] 2017-03-05 18:50:06.636 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 18:50:06.636 [main] Steps - initBrowser
+[INFO ] 2017-03-05 18:50:11.707 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 18:50:12.553 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 18:50:15.285 [main] LoginPage - Log out from account
+[INFO ] 2017-03-05 18:50:15.285 [main] LogOutTest - Log Out from account
+[INFO ] 2017-03-05 18:50:19.363 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 18:50:19.364 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 18:50:19.384 [main] CreateAccountNegativeTest - CreateAccountNegativeTest started
+[INFO ] 2017-03-05 18:50:28.620 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 18:50:28.620 [main] Steps - initBrowser
+[INFO ] 2017-03-05 18:50:34.676 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 18:50:35.884 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 18:50:35.884 [main] CreateAccountNegativeTest - Create account with incorrect username - autotest000
+[INFO ] 2017-03-05 18:50:40.928 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 18:50:41.900 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 18:50:41.900 [main] CreateAccountNegativeTest - Create account with incorrect username - -test
+[INFO ] 2017-03-05 18:50:46.699 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 18:50:47.566 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 18:50:47.566 [main] CreateAccountNegativeTest - Create account with incorrect username - test_
+[INFO ] 2017-03-05 18:50:52.581 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 18:50:53.724 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 18:50:53.724 [main] CreateAccountNegativeTest - Create account with incorrect username - rrrrrrrrrrrrrttttttttttttttttyyyyyyyyyyuu
+[INFO ] 2017-03-05 18:50:58.054 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 18:50:58.935 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 18:50:58.935 [main] CreateAccountNegativeTest - Create account with incorrect username - 
+[INFO ] 2017-03-05 18:51:03.414 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 18:51:04.570 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 18:51:04.571 [main] CreateAccountNegativeTest - Create account with incorrect email - autotest000@mail.ru
+[INFO ] 2017-03-05 18:51:08.935 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 18:51:09.785 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 18:51:09.785 [main] CreateAccountNegativeTest - Create account with incorrect email - ghfjkd@
+[INFO ] 2017-03-05 18:51:14.263 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 18:51:15.460 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 18:51:15.465 [main] CreateAccountNegativeTest - Create account with incorrect email - 
+[INFO ] 2017-03-05 18:51:19.505 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 18:51:20.200 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 18:51:20.200 [main] CreateAccountNegativeTest - Create account with incorrect password - qw2
+[INFO ] 2017-03-05 18:51:23.370 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 18:51:24.391 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 18:51:24.391 [main] CreateAccountNegativeTest - Create account with incorrect password - 12345678
+[INFO ] 2017-03-05 18:51:28.501 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 18:51:29.745 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 18:51:29.745 [main] CreateAccountNegativeTest - Create account with incorrect password - qwertyui
+[INFO ] 2017-03-05 18:51:33.261 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 18:51:34.673 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 18:51:34.674 [main] CreateAccountNegativeTest - Create account with incorrect password - fffffffffffffffffffffff11111111111111111111111111113333333333333333kkkkkkkkkkkkkkkkkk
+[INFO ] 2017-03-05 18:51:39.626 [main] MainPage - Main page is opened
+[INFO ] 2017-03-05 18:51:41.633 [main] MainPage - Main form for new account is filled
+[INFO ] 2017-03-05 18:51:41.633 [main] CreateAccountNegativeTest - Create account with incorrect password - 
+[INFO ] 2017-03-05 18:51:45.297 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 18:51:45.297 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 18:51:45.310 [main] DeleteRepositoryPositiveNegative - DeleteRepositoryPositiveNegative started
+[INFO ] 2017-03-05 18:51:54.773 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 18:51:54.773 [main] Steps - initBrowser
+[INFO ] 2017-03-05 18:51:59.351 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 18:52:00.297 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 18:52:07.735 [main] RepositoryPage - Repository page opened
+[INFO ] 2017-03-05 18:52:08.485 [main] RepositoryPage - Repository 222 created
+[INFO ] 2017-03-05 18:52:13.845 [main] RepositoryPage - Repository 222 deleted
+[INFO ] 2017-03-05 18:52:13.846 [main] DeleteRepositoryPositiveNegative - Delete Repository Positive - 222
+[INFO ] 2017-03-05 18:53:39.933 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 18:53:39.933 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 18:53:39.997 [main] CreateRepositoryPositiveNegativeTest - CreateRepositoryPositiveNegativeTest started
+[INFO ] 2017-03-05 20:08:18.244 [main] DeleteRepositoryPositiveNegative - DeleteRepositoryPositiveNegative started
+[INFO ] 2017-03-05 20:08:50.495 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 20:08:50.496 [main] Steps - initBrowser
+[INFO ] 2017-03-05 20:09:14.294 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 20:09:15.281 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 20:09:31.332 [main] RepositoryPage - Repository page opened
+[INFO ] 2017-03-05 20:09:32.300 [main] RepositoryPage - Repository 222 created
+[INFO ] 2017-03-05 20:11:43.959 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 20:11:43.960 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 20:13:01.954 [main] DeleteRepositoryPositiveNegative - DeleteRepositoryPositiveNegative started
+[INFO ] 2017-03-05 20:13:15.186 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 20:13:15.187 [main] Steps - initBrowser
+[INFO ] 2017-03-05 20:13:20.693 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 20:13:21.517 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 20:13:27.588 [main] RepositoryPage - Repository page opened
+[INFO ] 2017-03-05 20:13:28.238 [main] RepositoryPage - Repository 222 created
+[INFO ] 2017-03-05 20:13:34.086 [main] RepositoryPage - Repository 222 deleted
+[INFO ] 2017-03-05 20:13:34.089 [main] DeleteRepositoryPositiveNegative - Delete Repository Positive - 222
+[INFO ] 2017-03-05 20:15:08.547 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 20:15:08.547 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 20:16:52.106 [main] DeleteRepositoryPositiveNegative - DeleteRepositoryPositiveNegative started
+[INFO ] 2017-03-05 20:17:03.009 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 20:17:03.009 [main] Steps - initBrowser
+[INFO ] 2017-03-05 20:17:07.033 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 20:17:08.022 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 20:17:13.466 [main] RepositoryPage - Repository page opened
+[INFO ] 2017-03-05 20:17:14.270 [main] RepositoryPage - Repository 222 created
+[INFO ] 2017-03-05 20:17:18.581 [main] RepositoryPage - Repository 222 deleted
+[INFO ] 2017-03-05 20:17:18.581 [main] DeleteRepositoryPositiveNegative - Delete Repository Positive - 222
+[INFO ] 2017-03-05 20:18:44.665 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 20:18:44.666 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 20:25:46.630 [main] DeleteRepositoryPositiveNegative - DeleteRepositoryPositiveNegative started
+[INFO ] 2017-03-05 20:25:56.816 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 20:25:56.816 [main] Steps - initBrowser
+[INFO ] 2017-03-05 20:26:01.143 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 20:26:02.062 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 20:26:06.993 [main] RepositoryPage - Repository page opened
+[INFO ] 2017-03-05 20:26:07.602 [main] RepositoryPage - Repository 222 created
+[INFO ] 2017-03-05 20:26:11.305 [main] RepositoryPage - Repository 222 deleted
+[INFO ] 2017-03-05 20:26:11.305 [main] DeleteRepositoryPositiveNegative - Delete Repository Positive - 222
+[INFO ] 2017-03-05 20:26:56.800 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 20:26:56.801 [main] Steps - closeBrowser
+[INFO ] 2017-03-05 20:41:46.187 [main] DeleteRepositoryPositiveNegative - DeleteRepositoryPositiveNegative started
+[INFO ] 2017-03-05 20:41:57.199 [main] DriverSingleton - Browser started
+[INFO ] 2017-03-05 20:41:57.199 [main] Steps - initBrowser
+[INFO ] 2017-03-05 20:42:01.433 [main] LoginPage - Login page opened
+[INFO ] 2017-03-05 20:42:02.354 [main] LoginPage - Fill login form: username - autotest000, password - Test_123
+[INFO ] 2017-03-05 20:42:07.277 [main] RepositoryPage - Repository page opened
+[INFO ] 2017-03-05 20:42:08.128 [main] RepositoryPage - Repository 222 created
+[INFO ] 2017-03-05 20:42:11.976 [main] RepositoryPage - Repository 222 deleted
+[INFO ] 2017-03-05 20:42:11.976 [main] DeleteRepositoryPositiveNegative - Delete Repository Positive - 222
+[INFO ] 2017-03-05 20:42:14.204 [main] DeleteRepositoryPositiveNegative - Delete Repository Negative - Page not found · GitHub
+[INFO ] 2017-03-05 20:42:19.424 [main] DriverSingleton - Browser closed
+[INFO ] 2017-03-05 20:42:19.424 [main] Steps - closeBrowser
